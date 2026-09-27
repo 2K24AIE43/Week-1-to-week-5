@@ -1,7 +1,7 @@
 """
 Week 02 Lab  Problem 4
 
-Name: Muhmmad Shaheer
+Name: Muhammad Shaheer
 Roll number: 2k24\AIE\43
 Course: CGHCI
 """
