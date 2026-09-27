@@ -1,8 +1,8 @@
 """
 Week 02 Lab  Problem 1
 
-Name: Syed Muzammil Hussain
-Roll number: 2k24AIE65
+Name: Muhammad Shaheer
+Roll number: 2k24\AIE\43
 Course: CGHCI
 """
 
